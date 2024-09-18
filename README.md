@@ -1,4 +1,4 @@
-## Demo react to build dynamic form using JSON Schema
+# Demo react app to build dynamic form using JSON Schema
 
 ## Getting Started with Create React App
 
